@@ -1,0 +1,42 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "T6G3L",
+      "url": "board-1-T6G3L.png",
+      "newShot": false,
+      "lastEdited": 1692237802587,
+      "layers": {
+        "reference": {
+          "url": "board-1-T6G3L-reference.png",
+          "opacity": 1
+        },
+        "pencil": {
+          "url": "board-1-T6G3L-pencil.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 14957.217973147452
+    },
+    {
+      "uid": "1Z4N5",
+      "url": "board-2-1Z4N5.png",
+      "newShot": false,
+      "lastEdited": 1692237875976,
+      "layers": {
+        "pencil": {
+          "url": "board-2-1Z4N5-pencil.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 2000,
+      "lineMileage": 347.49475724036165
+    }
+  ]
+}
